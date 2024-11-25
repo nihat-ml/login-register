@@ -1,0 +1,11 @@
+{
+    "users":{
+            "id":1,
+            "name":"Nihat",
+            "surname":"Memmedli",
+            "email":"nihatml@gmail.com",
+            "password":"nihat123",
+            "isAdmin": false,
+            "favorites":[]
+        }
+}
